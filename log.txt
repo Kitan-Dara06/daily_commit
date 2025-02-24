@@ -2,3 +2,4 @@ Day 1 : Coded today
 day 2 : coded again, small progress 
 day 3: neural network classification 
 day4: continuation of neural network classification 
+day 5: Continuation of neural network classification including PCA dimensionality
