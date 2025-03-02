@@ -4,3 +4,5 @@ day 3: neural network classification
 day4: continuation of neural network classification 
 day 5: Continuation of neural network classification including PCA dimensionality
 day 6: continuation of neural network, testing out fillna and pCA dimensionality and model application 
+day 7: continuation
+day 8: continuation model creation
