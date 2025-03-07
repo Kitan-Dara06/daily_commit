@@ -7,3 +7,4 @@ day 6: continuation of neural network, testing out fillna and pCA dimensionality
 day 7: continuation
 day 8: continuation model creation
 day 9: model prediction
+day 10; classification donw, a new theory on xgboost/NN XGNN or TDL
