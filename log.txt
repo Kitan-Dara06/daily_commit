@@ -10,4 +10,5 @@ day 9: model prediction
 day 10; classification donw, a new theory on xgboost/NN XGNN or TDL
 day 11: XGNN continued
 day 12
+day 13: XGNN 
 
